@@ -573,6 +573,15 @@ const Showcases = [
     source: null,
     tags: ["nft"],
   },
+  {
+    title: "JES-Art",
+    description:
+      "A 16 year old fine art artist.",
+    preview: require("./showcase/JesArtLogo.png"),
+    website: "https://jes-art.com/",
+    source: null,
+    tags: ["nft"],
+  },
 ];
 
 export const TagList = Object.keys(Tags);
